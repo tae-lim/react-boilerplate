@@ -7,13 +7,17 @@ Minimalistic React Boilerplate so developers can quickly develop without the has
 ## Usage
 
 1. Open terminal and access react-boilerplate root directory
-    `npm install`
+
+`npm install`
 
 2. Install nodemon globally
-    `npm install nodemon -g`
+    
+`npm install nodemon -g`
 
 2. Run server
-    `npm run server-dev`
+
+`npm run server-dev`
   
 3. Transpile ES6 and React files with Webpack
-    `npm run react-dev`
+
+`npm run react-dev`
