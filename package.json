@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/tae-lim/react-boilerplate#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
